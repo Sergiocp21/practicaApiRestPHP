@@ -1,4 +1,4 @@
-# Practica voluntaria
+# Practica
 
 Prueba hecha por Sergio Carvajal Piédrola
 
