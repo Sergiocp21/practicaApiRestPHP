@@ -1,5 +1,3 @@
-# Practica
-
 Prueba hecha por Sergio Carvajal Piédrola
 
 
